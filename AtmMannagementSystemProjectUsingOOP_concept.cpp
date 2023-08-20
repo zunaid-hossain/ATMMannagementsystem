@@ -137,7 +137,7 @@ int main() {
 
                 switch (choice) {
                     case 1:
-                        cout << "Your Balance: " << current User->getBalance() << endl;
+                        cout << "Your Balance: " << currentUser->getBalance() << endl;
                         getch();
                         break;
 
