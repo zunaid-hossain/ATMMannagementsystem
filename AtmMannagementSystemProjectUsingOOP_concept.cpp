@@ -1,4 +1,4 @@
- #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include <cstdlib> // for system("cls")
 #include <conio.h> // for getch()
 
